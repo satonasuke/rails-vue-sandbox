@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "@rails/webpacker",
   "version": "4.0.2",
   "description": "Use webpack to manage app-like JavaScript modules in Rails",
@@ -78,4 +79,9 @@
     "url": "https://github.com/rails/webpacker/issues"
   },
   "homepage": "https://github.com/rails/webpacker"
+=======
+  "name": "rails-vue-sandbox",
+  "private": true,
+  "dependencies": {}
+>>>>>>> develop
 }
